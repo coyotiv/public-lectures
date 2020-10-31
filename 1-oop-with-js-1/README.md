@@ -2,7 +2,7 @@
 
 ## Lecture 1 — Object-Oriented Programming with JavaScript - Part 1
 
-![Object-Oriented Programming with JavaScript - Part 1](https://user-images.githubusercontent.com/698308/96386058-55602e80-1198-11eb-9a38-c57199404404.gif)
+[![Object-Oriented Programming with JavaScript - Part 1](https://user-images.githubusercontent.com/698308/96386058-55602e80-1198-11eb-9a38-c57199404404.gif)](https://www.youtube.com/watch?v=U521HI7cbX8&list=PLtZdlh6zUVfN8FamrJyUGNSpBSvPE_0K1&index=1)
 
 ## Introduction
 
